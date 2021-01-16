@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Omar Elbrolosy
 tagline: Software Engineer
-featuredImage: /assets/omarelbrolosy.jpg
+featuredImage: /assets/omarelbrolosy-removebg-preview.png
 cta:
   ctaText: Know more
   ctaLink: /about

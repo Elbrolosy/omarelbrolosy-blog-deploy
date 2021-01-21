@@ -1,11 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Omar Elbrolosy
+tagline: Software Engineer
+featuredImage: /assets/omarelbrolosy-removebg-preview.png
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I'm a software engineer who passionate to learn and produce high-impact products and melt into the software engineering community for knowledge and ideas sharing.
+
+Currently I'm a Senior Backend Engineer at adam.ai.
